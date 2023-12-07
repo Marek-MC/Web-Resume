@@ -1,0 +1,68 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(9, 9, 9);
+    /* background-image: url('content/SPAAACE.png');
+    background-size: cover; */
+}
+
+
+
+#page {
+    width: 8.5in;
+    height: 11in;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgba(22, 22, 22, 70%);
+
+}
+
+#pagecontent {
+    color: rgb(234, 219, 198);
+
+
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#pagecontent h3, h1 {
+    color: rgb(241, 126, 59);
+}
+
+#pagecontent li {
+    padding-bottom: 2px;
+}
+
+#titlebox h1,
+h2 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+#experience {
+    float: left;
+    text-align: left;
+}
+
+#achievements {
+    float: left;
+    text-align: left;
+}
+
+#technologies {
+    float: left;
+    text-align: left;
+}
+
+#education {
+    float: left;
+    text-align: left;
+}
+
+#projects {
+    float: left;
+    text-align: left;
+}
+
