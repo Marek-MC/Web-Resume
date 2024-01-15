@@ -1,6 +1,6 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(9, 9, 9);
+    background-color: rgb(6, 6, 6);
     /* background-image: url('content/SPAAACE.png');
     background-size: cover; */
 }
@@ -9,25 +9,33 @@ body {
 
 #page {
     width: 8.5in;
-    height: 11in;
+    height: 14in;
     margin: auto;
     border-radius: 20px;
     background-color: rgba(22, 22, 22, 70%);
 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
 #pagecontent {
-    color: rgb(234, 219, 198);
+    color: rgb(236, 213, 180);
 
 
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
 
+
+
 }
 
 #pagecontent h3, h1 {
-    color: rgb(241, 126, 59);
+    color: rgb(255, 120, 41);
+}
+
+#pagecontent p {
+   
 }
 
 #pagecontent li {
@@ -66,3 +74,22 @@ h2 {
     text-align: left;
 }
 
+#iso {
+    float: left;
+    text-align: left;
+}
+
+#gems {
+    position: absolute;
+    width: 80px;
+    padding: 10px;
+    left: 20.5%;
+}
+
+#coin {
+    position: absolute;
+    width: 80px;
+    padding: 10px;
+    right: 20%;
+
+}
