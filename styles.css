@@ -9,7 +9,7 @@ body {
 
 #page {
     width: 8.5in;
-    height: 14in;
+    height: 19in;
     margin: auto;
     border-radius: 20px;
     background-color: rgba(22, 22, 22, 70%);
@@ -42,11 +42,9 @@ body {
     padding-bottom: 2px;
 }
 
-#titlebox h1,
-h2 {
+#titlebox h1, h2 {
     margin-top: 0px;
     margin-bottom: 10px;
-
 }
 
 #experience {
@@ -80,16 +78,12 @@ h2 {
 }
 
 #gems {
+
     position: absolute;
     width: 80px;
     padding: 10px;
-    left: 20.5%;
-}
-
-#coin {
-    position: absolute;
-    width: 80px;
-    padding: 10px;
-    right: 20%;
+    margin: -50;
 
 }
+
+
