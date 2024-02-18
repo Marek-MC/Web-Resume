@@ -41,7 +41,7 @@ Linux Familiarity, June 2022 - Present
 - Performed various tasks and experiments with Linux, such as web development, ethical hacking, data analysis, and AI.
 
 Web Development, March 2022 - Present
-- Kept up to date with this website: https://marekmc.github.io
+- Kept up to date with this website: marek-mc.github.io/Web-Resume
 - Used HTML, CSS, and Javascript to create a responsive and interactive website that showcases my skills, projects, and interests.
 - Deployed the website using GitHub Pages and added a custom domain name.
 - Acquired the EDA web development certificate in the summer of 2020.
